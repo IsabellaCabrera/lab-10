@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Cold Latte",
+        "price": 10,
+        "description": "Creamy,icy and perfect",
+        "image": "Cappuccino-Likör.jpg"
+
+
+    },
+    {
+        "id": 2,
+        "name": "Dalgona coffe",
+        "price": 20,
+        "description": "Trendy,smooth, velvety texture",
+        "image": "descarga (9).jpg"
+
+
+    },{
+        "id": 3,
+        "name": "Cold Latte",
+        "price": 15,
+        "description": "Shot, bold,High pressure",
+        "image": "Espresso.jpg"
+
+
+    }
+
+]
